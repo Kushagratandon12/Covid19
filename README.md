@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1209679043.jpg?w=1390&crop=1"><br><br>
+</div>
 # Covid19
 The Idea of the project is to provide current, correct information about corona-virus and if during emergency provide the generate emergency and show the nearby hospitals where the treatment can be done also display which location is less prone to virus 
 Corona virus Protection / Emergency App
@@ -54,6 +57,10 @@ An extra feature, which will determine whether you are infected by the virus or 
 
 Try it out
 •	 GitHub Repo
+
+
+
+
 
 https://github.com/Kushagratandon12/Covid19
 
